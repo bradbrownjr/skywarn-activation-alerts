@@ -4,7 +4,7 @@ Ever wonder when the National Weather Service is looking for reports from SKYWAR
 With these scripts, you can automatically search for the spotter request text, and alert your team that they are needed. The scripts check for the text "encouraged", as in 'Weather spotters are encouraged to report significant weather conditions according to Standard Operating Procedures.' If the keyword is present, it will indicate that spotters are needed.
 
 # How do you find your HWO product?
-Search for the local office by name or abbreviation, the product name, and the filetype.
+Search for the local office by name or abbreviation, the product name, and the filetype. 
 Example: `gyx hwo filetype:txt`
 
 The top result will look like this, and shouldn't change between storms:
