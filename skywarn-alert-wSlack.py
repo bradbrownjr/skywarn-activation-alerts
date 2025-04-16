@@ -11,7 +11,7 @@ except ImportError:
 import os
 
 STATUS_FILE = "last_status.txt" # Required to prevent spamming channels
-SLACK_WEBHOOK_URL = "https://hooks.slack.com/services/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" # Comment if not used
+SLACK_WEBHOOK_URL = "" # Comment if not used
 url = "https://tgftp.nws.noaa.gov/data/raw/fl/flus41.kgyx.hwo.gyx.txt" # Hazardous Weather Outlook URL
 
 def read_last_status():
